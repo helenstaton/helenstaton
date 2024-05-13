@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helenstaton
 - 👀 I’m interested in moving into a career in tech.
-- 🌱 I’m currently learning python and full stack webdev on udemy, and I've just completed a beginners course in SQL.
+- 🌱 I’m currently completing the CFGdegree in Software Engineering.
 - 💞️ I’m looking to collaborate on any project which will help me develop my coding skills.
 - 📫 How to reach me - helenstaton88@gmail.com
 - 😄 Pronouns: she/her
